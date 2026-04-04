@@ -6,7 +6,7 @@
 
 | Phase | テーマ | 期間 | 状態 |
 |-------|--------|------|------|
-| 1 | 基礎（Claude 101 / AI Fluency） | Week 1〜2 | 🟡 進行中  |
+| 1 | 基礎（Claude 101 / AI Fluency） | Week 1〜2 | 🟡 進行中 |
 | 2 | Claude API 開発 | Week 3〜5 | ⬜ 未着手 |
 | 3 | MCP（Model Context Protocol） | Week 6〜7 | ⬜ 未着手 |
 | 4 | Claude Code | Week 8〜9 | ⬜ 未着手 |
@@ -20,7 +20,8 @@
 claude-architect-study/
 ├── README.md              ← このファイル（全体の進捗・ポートフォリオ）
 ├── logs/                  ← 日々の学習ログ
-│   └── 2026-04-03.md
+│   ├── テンプレート.md
+│   └── 2026-04-04.md
 ├── phase1-fundamentals/   ← Phase 1: 基礎
 │   └── notes/
 ├── phase2-api/            ← Phase 2: Claude API
@@ -40,9 +41,9 @@ claude-architect-study/
 ## 📝 学習ログ（最新）
 
 <!-- 最新のログへのリンクをここに追加していく -->
-| 日付 | テーマ | リンク |
-|------|--------|--------|
-| 2026-04-03 | 学習開始・環境構築 | [log](logs/2026-04-03.md) |
+| 日付 | Day | テーマ | リンク |
+|------|-----|--------|--------|
+| 2026-04-04 | Day 1 | Claude 101 セクション1: Meet Claude | [log](logs/2026-04-04.md) |
 
 ## 🎯 試験概要メモ
 
