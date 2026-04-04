@@ -6,7 +6,7 @@
 
 | Phase | テーマ | 期間 | 状態 |
 |-------|--------|------|------|
-| 1 | 基礎（Claude 101 / AI Fluency） | Week 1〜2 | ⬜ 未着手 |
+| 1 | 基礎（Claude 101 / AI Fluency） | Week 1〜2 | 🟡 進行中  |
 | 2 | Claude API 開発 | Week 3〜5 | ⬜ 未着手 |
 | 3 | MCP（Model Context Protocol） | Week 6〜7 | ⬜ 未着手 |
 | 4 | Claude Code | Week 8〜9 | ⬜ 未着手 |
