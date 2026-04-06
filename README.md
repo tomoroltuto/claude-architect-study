@@ -22,7 +22,8 @@ claude-architect-study/
 ├── logs/                  ← 日々の学習ログ
 │   ├── テンプレート.md
 │   ├── 2026-04-04.md
-│   └── 2026-04-05.md
+│   ├── 2026-04-05.md
+│   └── 2026-04-06.md
 ├── phase1-fundamentals/   ← Phase 1: 基礎
 │   └── notes/
 ├── phase2-api/            ← Phase 2: Claude API
@@ -44,6 +45,7 @@ claude-architect-study/
 <!-- 最新のログへのリンクをここに追加していく -->
 | 日付 | Day | テーマ | リンク |
 |------|-----|--------|--------|
+| 2026-04-06 | Day 3 | Claude 101 セクション3: Connectors / Enterprise Search / Research mode | [log](logs/2026-04-06.md) |
 | 2026-04-05 | Day 2 | Claude 101 セクション2〜3: Desktop App / Projects / Artifacts / Skills | [log](logs/2026-04-05.md) |
 | 2026-04-04 | Day 1 | Claude 101 セクション1: Meet Claude | [log](logs/2026-04-04.md) |
 

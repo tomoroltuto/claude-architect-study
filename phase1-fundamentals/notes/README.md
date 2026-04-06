@@ -15,8 +15,7 @@
 ## 進捗
 - [x] セクション1: Meet Claude（Day 1）
 - [x] セクション2: Organizing your work — Desktop App / Projects / Artifacts（Day 2）
-- [x] セクション3: Expanding Claude's reach — Skills（Day 2）
-- [ ] セクション3 続き: Connectors / Enterprise Search / Research mode
+- [x] セクション3: Expanding Claude's reach — Skills（Day 2）/ Connectors / Enterprise Search / Research mode（Day 3）
 - [ ] セクション4: Use-cases
 - [ ] Claude 101 修了証の取得
 
@@ -76,3 +75,26 @@
 | 目的 | 知識を蓄える（参考文献） | 実行するプロセスを定義する |
 | 最適 | 長期的な視点、参考資料、チーム共同作業 | 反復可能なワークフロー、複数ステップのタスク |
 | 持続性 | プロジェクト内の全チャットで利用可能 | スキルが発動された際に適用される |
+
+### Day 3（2026-04-06）— Connectors / Enterprise Search / Research mode
+
+#### コネクタ（Connectors）★CCA試験関連
+- 日常使用しているツール・データにClaudeがアクセスできるようにする仕組み
+- 基盤技術は **MCP（Model Context Protocol）** — AIにおけるUSB-Cのような標準規格
+- → **CCA試験 Domain 2（Tool Design & MCP Integration: 18%）の核心テーマ**
+
+**2種類のコネクタ:**
+| 種類 | 説明 |
+|------|------|
+| Webコネクタ | ブラウザ上でClaudeと外部サービスを接続 |
+| デスクトップ拡張機能 | ローカルのファイルやソフトウェアにアクセス可能にする |
+
+**セキュリティと権限:**
+- コネクタ経由のデータもAnthropicのデータポリシーの対象
+- Proプラン＋学習オフ → 一定の保護はあるが完全ではない
+- ビジネスプラン → より確実な機密保護
+
+#### エンタープライズ検索
+- 「組織内のGoogle検索」— 複数の情報源を横断検索し統一された回答を返す
+- SharePoint、Slack、Gmail、Google Driveなど接続された全ツールを対象
+- セキュリティ: 会話内容は非公開、接続データはインデックスも保存もしない
